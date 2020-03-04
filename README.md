@@ -19,4 +19,4 @@ Normalize
 importing Linear Regression and fitting model
 performance evaluator
 Decision tree regressor
-random forest regressor
+random forest regressor.
